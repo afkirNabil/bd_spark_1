@@ -1,0 +1,5 @@
+"1","La Gran Aventura","Juan Pérez","120","1","16:9","2020","PG-13","España","Español","1000000.00","5000000.00","https://www.imdb.com/title/tt1234567/","aventura, acción, comedia"
+"2","Amor en Tiempos","María López","95","1","16:9","2018","PG","México","Español","800000.00","4000000.00","https://www.imdb.com/title/tt2345678/","romance, drama"
+"3","Futuro Distante","Carlos García","140","1","21:9","2022","R","Estados Unidos","Inglés","20000000.00","150000000.00","https://www.imdb.com/title/tt3456789/","ciencia ficción, acción"
+"4","Noche Oscura","Ana Martínez","110","0","4:3","2019","R","Reino Unido","Inglés","5000000.00","20000000.00","https://www.imdb.com/title/tt4567890/","terror, suspenso"
+"5","Risas sin Fin","Luis González","100","1","16:9","2021","PG","Francia","Francés","700000.00","3500000.00","https://www.imdb.com/title/tt5678901/","comedia, humor"

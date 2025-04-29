@@ -1,2 +1,2 @@
-.spark_env
-__pycache__
+.spark_env/
+__pycache__/
