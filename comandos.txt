@@ -1,0 +1,23 @@
+euclid--------------------------------------------------
+python3 -m venv .spark_env 
+source ./.spark_env/bin/activate
+python3 euclid.py
+--------------------------------------------------------
+movies_each_average-------------------------------------
+start-all.sh
+spark-submit --master "local[*]" movies_each_average.py
+verage_movie_mark.py------------------------------------
+spark-submit --master "local[*]" average_movie_mark.py
+--------------------------------------------------------
+numbers-------------------------------------------------
+python3 numbers.py 
+--------------------------------------------------------
+words_translation_rdd-------------------------------------------------
+spark-submit --master "local[*]" words_translation_rdd.py  
+--------------------------------------------------------
+names---------------------------------------------------
+python3 names.py
+--------------------------------------------------------
+mark_analysis------------------------------------------
+spark-submit --master "local[*]" marks_analysis.py
+--------------------------------------------------------
